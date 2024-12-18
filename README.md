@@ -2,15 +2,15 @@
 
 Technologies: 
 - Front-end: Angular, Bootstrap 5
-- Connecting Front-end and Back-end: Rest/ Restful, Postman.
-- Back-end: Spring boot, Microservices, Github, Docker, Kubernetes, Junit, Sonar, AWS EKS, AWS ALB, AWS EC2, AWS RDS (SQL), Mongo Atlas (No-SQL), MySQL, Jenkins, ArgoCD.
+- Connecting Front-end and Back-end: RestAPI, Postman.
+- Back-end: Spring Boot, Microservices, Github, Docker, Kubernetes, Junit, Sonar, AWS EKS, AWS ALB, AWS EC2, AWS RDS (SQL), Mongo Atlas (No-SQL), MySQL, Jenkins, ArgoCD.
 
 Front-end pages:
 - Link: https://github.com/drakenevadie19/idraiske-food-delivery-application-FE.git
 - Components: 
-  - Restaurant List page
-  - Food Catalogue page
-  - Order Page
+  - Restaurant List page: Displaying a list of restaurants available in the system. 
+  - Food Catalogue page: Displaying a list of dishes for each restaurant. 
+  - Order Page: Place order with chosen dishes from a restaurant.
 
 Back-end microservices: 
 - Eureka Server: 
