@@ -1,18 +1,18 @@
 # idraiske-food-restaurant-application
 
-Technologies: 
+<h2>Technologies: </h2>
 - Front-end: Angular, Bootstrap 5
 - Connecting Front-end and Back-end: RestAPI, Postman.
 - Back-end: Spring Boot, Microservices, Github, Docker, Kubernetes, Junit, Sonar, AWS EKS, AWS ALB, AWS EC2, AWS RDS (SQL), Mongo Atlas (No-SQL), MySQL, Jenkins, ArgoCD.
 
-Front-end pages:
+<h2>Front-end pages: </h2>
 - Link: https://github.com/drakenevadie19/idraiske-food-delivery-application-FE.git
 - Components: 
   - Restaurant List page: Displaying a list of restaurants available in the system. 
   - Food Catalogue page: Displaying a list of dishes for each restaurant. 
   - Order Page: Place an order for dishes from a restaurant.
 
-Back-end microservices: 
+<h2>Back-end microservices: </h2>
 - Eureka Server: 
   - Monitoring current online servers.
   - Enabling LoadBalancer to inject a server's service into another server's back-end.
@@ -34,7 +34,7 @@ Back-end microservices:
   - Respond to Endpoint to save order in the database.
   - Link: https://github.com/drakenevadie19/idraiske-Order-Microservice.git
 
-Deployments and maintenance: 
+<h2>Deployments and maintenance: </h2>
 - Utilizing Manifest files to create deployments for pods/microservices
 - Links: https://github.com/drakenevadie19/idraiske-deployments.git
 
