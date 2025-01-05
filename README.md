@@ -1,9 +1,11 @@
 # idraiske-food-restaurant-application
 
 <h2>Technologies: </h2>
-- Front-end: Angular, Bootstrap 5
-- Connecting Front-end and Back-end: RestAPI, Postman.
-- Back-end: Spring Boot, Microservices, Github, Docker, Kubernetes, Junit, Sonar, AWS EKS, AWS ALB, AWS EC2, AWS RDS (SQL), Mongo Atlas (No-SQL), MySQL, Jenkins, ArgoCD.
+<ul>
+  <li>- Front-end: Angular, Bootstrap 5</li>
+  <li>- Connecting Front-end and Back-end: RestAPI, Postman.</li>
+  <li>- Back-end: Spring Boot, Microservices, Github, Docker, Kubernetes, Junit, Sonar, AWS EKS, AWS ALB, AWS EC2, AWS RDS (SQL), Mongo Atlas (No-SQL), MySQL, Jenkins, ArgoCD.</li>
+</ul>
 
 <h2>Front-end pages: </h2>
 - Link: https://github.com/drakenevadie19/idraiske-food-delivery-application-FE.git
