@@ -8,7 +8,7 @@
 </ul>
 
 <h2>Front-end pages: </h2>
-- Link: https://github.com/drakenevadie19/idraiske-food-delivery-application-FE.git
+<h3>Link: https://github.com/drakenevadie19/idraiske-food-delivery-application-FE.git</h3>
 - Components: 
   - Restaurant List page: Displaying a list of restaurants available in the system. 
   - Food Catalogue page: Displaying a list of dishes for each restaurant. 
