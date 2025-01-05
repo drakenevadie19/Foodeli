@@ -1,4 +1,4 @@
-# idraiske-food-restaurant-application
+# idraiske-food-delivery-application
 
 <h2>Technologies: </h2>
 <ul>
