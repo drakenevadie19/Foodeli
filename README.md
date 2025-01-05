@@ -1,4 +1,4 @@
-# idraiske-delivery-application
+# idraiske-food-restaurant-application
 
 Technologies: 
 - Front-end: Angular, Bootstrap 5
