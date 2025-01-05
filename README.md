@@ -39,9 +39,9 @@ Deployments and maintenance:
 - Links: https://github.com/drakenevadie19/idraiske-deployments.git
 
 System Architecture
-<img width="80%" alt="Screenshot 2024-12-20 at 6 20 14 AM" src="https://github.com/user-attachments/assets/750e2b7e-9b3c-472d-9de7-cb9a23f15575" />
+<img width="100%" alt="Screenshot 2024-12-20 at 6 20 14 AM" src="https://github.com/user-attachments/assets/750e2b7e-9b3c-472d-9de7-cb9a23f15575" />
 
 CICD Diagram
-<img width="80%" alt="Screenshot 2025-01-05 at 6 06 35 AM" src="https://github.com/user-attachments/assets/d8767752-7966-4cbd-ad8e-902c5755b560" />
+<img width="100%" alt="Screenshot 2025-01-05 at 6 06 35 AM" src="https://github.com/user-attachments/assets/d8767752-7966-4cbd-ad8e-902c5755b560" />
 
 
