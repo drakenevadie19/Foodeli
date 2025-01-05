@@ -8,11 +8,13 @@
 </ul>
 
 <h2>Front-end pages: </h2>
-<h3>Link: https://github.com/drakenevadie19/idraiske-food-delivery-application-FE.git</h3>
-- Components: 
-  - Restaurant List page: Displaying a list of restaurants available in the system. 
-  - Food Catalogue page: Displaying a list of dishes for each restaurant. 
-  - Order Page: Place an order for dishes from a restaurant.
+<h4>Link: https://github.com/drakenevadie19/idraiske-food-delivery-application-FE.git</h4>
+<h4>Components: </h4>
+<ul>
+  <li>Restaurant List page: Displaying a list of restaurants available in the system. </li>
+  <li>Food Catalogue page: Displaying each restaurant's dishes list. </li>
+  <li>Order Page: Place an order for dishes from a restaurant. </li>
+</ul>
 
 <h2>Back-end microservices: </h2>
 - Eureka Server: 
