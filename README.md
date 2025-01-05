@@ -37,6 +37,10 @@ Back-end microservices:
 Deployments and maintenance: 
 - Utilizing Manifest files to create deployments for pods/microservices
 - Links: https://github.com/drakenevadie19/idraiske-deployments.git
- 
-<img width="435" alt="Screenshot 2024-12-20 at 6 20 14 AM" src="https://github.com/user-attachments/assets/750e2b7e-9b3c-472d-9de7-cb9a23f15575" />
+
+System Architecture
+<img width="100%" alt="Screenshot 2024-12-20 at 6 20 14 AM" src="https://github.com/user-attachments/assets/750e2b7e-9b3c-472d-9de7-cb9a23f15575" />
+
+CICD Diagram
+
 
