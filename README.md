@@ -1,4 +1,3 @@
-# idraiske-food-delivery-application
 <h2>Technologies: </h2>
 <ul>
   <li>Front-end: Angular, Bootstrap 5</li>
