@@ -3,7 +3,8 @@
 <ul>
   <li>Front-end: Angular, Bootstrap 5</li>
   <li>Connecting Front-end and Back-end: RestAPI, Postman.</li>
-  <li>Back-end: Spring Boot, Microservices, Github, Docker, Kubernetes, Junit, Sonar, AWS EKS, AWS ALB, AWS EC2, AWS RDS (SQL), Mongo Atlas (No-SQL), MySQL, Jenkins, ArgoCD.</li>
+  <li>Database: MongoDB, MongoDB Atlas, AWS RDS (SQL), MySQL, MySQL Workbench.</li>
+  <li>Back-end: Microservices, Spring Boot, Junit, Github, Docker, Kubernetes, AWS EKS, AWS ALB, AWS EC2, AWS RDS (SQL), Sonar, Jenkins, ArgoCD.</li>
 </ul>
 
 <h2>System Architecture</h2>
